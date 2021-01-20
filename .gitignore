@@ -1,6 +1,10 @@
 # ignore everything
 *
+!.gitignore
 
 # Except these
-!.gitignore
+
+!data
+data/*
 !data/cropped_data/
+!data/cropped_data/*
