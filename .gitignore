@@ -8,3 +8,5 @@
 data/*
 !data/cropped_data/
 !data/cropped_data/*
+!data/formatted_data/
+!data/formatted_data/*
